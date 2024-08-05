@@ -1,6 +1,7 @@
-Hi 👋, I'm Anas Naeem
+                              Hi 👋, I'm Anas Naeem
 
-A passionate software developer from Pakistan
+                  A passionate software developer from Pakistan
+            ____________________________________________________________________      
 
 # 💫 About Me:
 🔭 I’m currently working on Pharmaceutical Projects<br><br>🌱 I’m currently learning Postman API's in Laravel<br><br>👯 I’m looking to collaborate on Web Development<br><br>💬 Ask me about Software Development, PHP,  javascript, Jquery, Laravel, Codeigniter, Rest-Full API's
