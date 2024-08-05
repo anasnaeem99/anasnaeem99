@@ -2,7 +2,7 @@
 <h2>Hi 👋, I'm <b>Anas Naeem</b></h2>
 
 <h3>A passionate software developer from Pakistan.</h3>
-<center>
+</center>
 <hr>
 # 💫 About Me:
 🔭 I’m currently working on Pharmaceutical Projects<br><br>🌱 I’m currently learning Postman API's in Laravel<br><br>👯 I’m looking to collaborate on Web Development<br><br>💬 Ask me about Software Development, PHP,  javascript, Jquery, Laravel, Codeigniter, Rest-Full API's
