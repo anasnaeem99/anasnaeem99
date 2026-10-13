@@ -1,31 +1,162 @@
-<h2 style="text-align:center;">Hi 👋, I'm <b>Anas Naeem</b></h2>
 
-<h3 style="text-align:center;">A passionate software developer from Pakistan.</h3>
-<hr>
-# 💫 About Me: <br>
-🔭 I’m currently working on Pharmaceutical Projects<br><br>🌱 I’m currently learning Postman API's in Laravel<br><br>👯 I’m looking to collaborate on Web Development<br><br>💬 Ask me about Software Development, PHP,  javascript, Jquery, Laravel, Codeigniter, Rest-Full API's
+<!--
+  GitHub Profile README
+  Repository: anasnaeem99/anasnaeem99
+-->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/anas-naeem-6089a0318/) 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=220&section=header&text=Anas%20Naeem&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=58" width="100%" alt="Anas Naeem - Full Stack Web Developer" />
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Code-Igniter](https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=anasnaeem99&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anasnaeem99&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anasnaeem99&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+  <p>
+    <a href="https://github.com/anasnaeem99">
+      <img src="https://img.shields.io/badge/GitHub-anasnaeem99-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anasnaeem17">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://anasnaeem99.github.io/">
+      <img src="https://img.shields.io/badge/Portfolio-Visit-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+    </a>
+  </p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anasnaeem99&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=anasnaeem99&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views"/>
+  </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  ### Building practical solutions through clean and efficient code.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=anasnaeem99&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  *Passionate about web development, backend systems, databases, and creating useful software solutions.*
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anasnaeem99&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+Hi! I'm **Anas Naeem**, a Full Stack Web Developer with **5 years of web development experience**.
+
+I enjoy building web applications that solve real-world problems, streamline business processes, and provide a smooth user experience.
+
+- 💻 Experienced in PHP, MySQL, JavaScript, Python, and modern web technologies.
+- 🏗️ Interested in enterprise applications, management systems, and business process automation.
+- 🗄️ Focused on backend development, database design, and application functionality.
+- 🎨 Enjoy creating responsive and user-friendly web interfaces.
+- 📈 Always looking to improve my skills and build better software.
+- 🤝 Open to professional opportunities and collaboration on interesting projects.
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Web Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,python,mysql,html,css,javascript" alt="PHP, Python, MySQL, HTML, CSS and JavaScript" />
+</p>
+
+### Frameworks & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=bootstrap,jquery" alt="Bootstrap and jQuery" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Git, GitHub and Visual Studio Code" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+My work and experience include the following applications and systems.
+
+### 🏢 Enterprise & Business Management
+
+- **ERP — Enterprise Resource Planning**  
+  Enterprise resource planning application.
+
+- **HRMS — Human Resource Management System**  
+  Human resource management application.
+
+- **CMRS — Customer Relations Management System**  
+  Customer relationship management application.
+
+- **Electronic Point of Sale (EPOS)**  
+  Electronic point-of-sale system.
+
+### 🏛️ Regulatory & Compliance Systems
+
+- **RIMS — Regulatory Management System**  
+  Regulatory management application.
+
+- **RBI — Risk-Based Inspection Tool (GMP, GSDP)**  
+  Risk-based inspection tool for the stated inspection domains.
+
+- **MEDRS — Medicines Risk-Based Surveillance Tool**  
+  Risk-based medicines surveillance application.
+
+> Project names are listed here without repository links because individual public repository URLs have not been provided. Add links to the corresponding repositories when they are available.
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=anasnaeem99&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" alt="GitHub statistics" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anasnaeem99&layout=compact&theme=tokyonight&hide_border=true" height="180" alt="Most used languages on GitHub" />
+
+  <img src="https://streak-stats.demolab.com?user=anasnaeem99&theme=tokyonight&hide_border=true" height="180" alt="GitHub contribution streak" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./dist/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./dist/github-contribution-grid-snake.svg" />
+    <img src="./dist/github-contribution-grid-snake.svg" alt="GitHub contribution graph animation" width="100%" />
+  </picture>
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+- 💼 Explore new full-stack and PHP web development opportunities.
+- 🧩 Build maintainable, reliable, and scalable web applications.
+- 📚 Continue learning and improving software development practices.
+- 🤝 Collaborate with developers on meaningful projects.
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+  <a href="https://github.com/anasnaeem99">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="Follow on GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/anasnaeem17">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="Connect on LinkedIn"/>
+  </a>
+  <a href="https://anasnaeem99.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Explore-0891B2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit portfolio"/>
+  </a>
+
+  <p>Thanks for visiting my profile! ⭐</p>
+
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:2563EB,100:06B6D4&height=100&section=footer" width="100%" alt="Footer banner"/>
+</div>
