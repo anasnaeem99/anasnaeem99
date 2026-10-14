@@ -20,9 +20,11 @@
     </a>
   </p>
 
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=anasnaeem99&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile views"/>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=anasnaeem99&label=Profile%20Views&color=2563eb&style=flat-square" alt="Profile Views" />
   </p>
+
 
   ### Building practical solutions through clean and efficient code.
 
